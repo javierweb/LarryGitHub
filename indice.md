@@ -6,3 +6,4 @@
 * LP y el malware de fuego
 * LP y la orden de unix
 * LP y el misterio del hacker
+* LP y los commits de la muerte
